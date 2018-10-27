@@ -1,4 +1,4 @@
-#Naast elkaar
+# Naast elkaar
 
 Trainingsmateriaal waarbij kennis gemaakt wordt met display-types en op verschillende manieren geprobeerd wordt elementen naast elkaar te plaatsen.
 
